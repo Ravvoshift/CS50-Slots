@@ -11,5 +11,9 @@ You are not playing with real money
 
 * Initially when you launch the game, you will see a Code succes score board and a total of 9 cards, below the title of the game.
 * Also below are two buttons named "Spin" and "Super Spin".
+* As you would play on any slot machine, here you would either click on "Spin" or "Super Spin", in order to roll the cards
+* Where, clicking on "Spin" will charge you a total of 5 credit scores and will only spin the middle row, where the top and the bottom rows are idle.
+* Upon clicking "Super Spin", you will be charged a total of 25 credit scores and will be spinning all 3 rows, having a chance to win a bigger reward.
+
 
 
