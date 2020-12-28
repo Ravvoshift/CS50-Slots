@@ -9,4 +9,7 @@ You are not playing with real money
 
 ### How to play CS50 Slots?
 
+* Initially when you launch the game, you will see a Code succes score board and a total of 9 cards, below the title of the game.
+* Also below are two buttons named "Spin" and "Super Spin".
+
 
